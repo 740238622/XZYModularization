@@ -1,2 +1,2 @@
 # XZYModularization
-模仿SFModularization写的模块化解耦
+组件化模块化的基本解耦
